@@ -7,8 +7,5 @@
     "private_key" : "cert/private.pem",
     "public_key" : "cert/public.pem"
   },
-  "data_dir": "/usr/local/koop/",
-  "db": {
-    "conn": "postgres://localhost/koopdev"
-  }
+  "data_dir": "/usr/local/koop/"
 }
