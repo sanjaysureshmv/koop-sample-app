@@ -28,6 +28,6 @@ Portland TriMet isn't configured (yet)
 `)
 })
 
-const port = config.port || 8080
+const port = config.port || 8081
 // start the server
 koop.server.listen(port, () => koop.log.info(`Koop server listening at ${port}`))
